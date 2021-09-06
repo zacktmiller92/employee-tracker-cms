@@ -28,7 +28,7 @@ This project is designed to create a web application that allows a user to manag
     3. source db/seeds.sql
 4. launch the app using "node app.js"
 
-
+Video Walkthrough: https://drive.google.com/file/d/1CM93mae_q_pu-wMZ-G-oCu-cZV0CGNQx/view?usp=sharing
 
 ## Credits
 Created by Zack Miller at Rutgers Coding Bootcamp
