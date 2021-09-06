@@ -1,0 +1,28 @@
+{
+  "name": "employee-tracker-cms",
+  "version": "1.0.0",
+  "description": "## Description This project is designed to create a web application that allows a user to manage a team of employees in a mysql database.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "console.table": "^0.10.0",
+    "mysql2": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacktmiller92/employee-tracker-cms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacktmiller92/employee-tracker-cms/issues"
+  },
+  "homepage": "https://github.com/zacktmiller92/employee-tracker-cms#readme"
+}
